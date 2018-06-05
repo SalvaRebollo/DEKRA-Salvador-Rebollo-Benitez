@@ -23,3 +23,5 @@
 <img width="720px" src="/Imagenes/Presentacion-de-exposicion-021.jpg">
 <img width="720px" src="/Imagenes/Presentacion-de-exposicion-022.jpg">
 <img width="720px" src="/Imagenes/Presentacion-de-exposicion-023.jpg">
+
+* [Enlace para visualizar todo lo que he realizado en la empresa de forma documentada](https://github.com/SalvaRebollo/DEKRA-Salvador-Rebollo-Benitez)
