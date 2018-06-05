@@ -1,5 +1,5 @@
 # DEKRA-Salvador-Rebollo-Benitez
-## Queda adjunto en el repositorio tambien un cojunto de bitácoras confeccionadas a lo largo del periodo de formación DUAL.
+## Queda adjunto en el repositorio actual un cojunto de bitácoras confeccionadas a lo largo del periodo de formación DUAL, documentando todo lo que he realizado y aprendido.
 <img width="720px" src="/Imagenes/Presentacion-de-exposicion-001.jpg">
 <img width="720px" src="/Imagenes/Presentacion-de-exposicion-002.jpg">
 <img width="720px" src="/Imagenes/Presentacion-de-exposicion-003.jpg">
